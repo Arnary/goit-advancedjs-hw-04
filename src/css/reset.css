@@ -28,8 +28,10 @@ button {
   cursor: pointer;
 }
 
-img {
+body {
+  margin: 0;
+}
+
+.photo-limit {
   display: block;
-  max-width: 100%;
-  height: auto;
 }
